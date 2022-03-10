@@ -1,0 +1,19 @@
+.isComplete {
+    text-decoration: line-through;
+}
+
+body {
+font-family: setofont-sp, sans-serif;
+font-style: normal;
+font-weight: 400;
+}
+
+select {
+    font-family: setofont-sp, sans-serif;
+}
+
+button {
+    font-family: setofont-sp, sans-serif;
+}
+
+
